@@ -1,0 +1,19 @@
+{
+  "name": "react-universal-test",
+  "version": "0.1.0",
+  "description": "A test how far it is possible to share code between a web react app and a react-native app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/masterwendu/react-universal-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/masterwendu/react-universal-test/issues"
+  },
+  "homepage": "https://github.com/masterwendu/react-universal-test#readme"
+}
